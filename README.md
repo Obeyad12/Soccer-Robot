@@ -54,6 +54,7 @@ All parts were modeled in Fusion 360 and 3D printed for assembly.
 ![PXL_20250822_214508651 PORTRAIT](https://github.com/user-attachments/assets/ada375bd-46f4-4c14-8adf-e6cd76f64bde)
 ![PXL_20250822_214501474 PORTRAIT](https://github.com/user-attachments/assets/09f25ea3-e68c-444c-9bf8-d16704928235)
 ![PXL_20250822_214520744 PORTRAIT](https://github.com/user-attachments/assets/395e680a-502b-41d8-8cea-65a5926752f9)
+![856a47d3-0dc8-4633-a0c9-0ad016d699e6~1](https://github.com/user-attachments/assets/f49ab550-7493-46ed-a0a4-c1b238918813)
 
 
 ## Results
