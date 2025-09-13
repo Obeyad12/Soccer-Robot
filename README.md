@@ -17,6 +17,17 @@ The project received the **Best Design Award** at the TMU Engineering Competitio
 - **Validated electronics:** oscilloscope + multimeter used to test PWM stability and driver response.  
 - **Award-winning design:** won *Best Design* at TMU Engineering Competition.  
 
+## Tech Stack
+- **Hardware:** Arduino Nano, H-Bridge motor driver, DC motors, Bluetooth module, 3D-printed chassis.  
+- **Software:** Arduino C++ for PWM control + Bluetooth input handling.  
+- **Tools:** Fusion 360 for CAD design, Arduino IDE, oscilloscope & multimeter for verification.  
+
+## How It Works
+1. The Arduino Nano receives control signals wirelessly via Bluetooth.  
+2. Signals are translated into PWM outputs to the H-Bridge, driving left/right motors for precise movement.  
+3. CAD-designed 3D-printed chassis ensures stability, traction, and crash resistance during gameplay.  
+4. The robot can maneuver quickly across the playing field while withstanding collisions.  
+
 ## CAD Models
 All parts were modeled in Fusion 360 and 3D printed for assembly.  
 
@@ -39,27 +50,10 @@ All parts were modeled in Fusion 360 and 3D printed for assembly.
 <img width="1920" height="1032" alt="Full_Model" src="https://github.com/user-attachments/assets/65c68e51-03f7-448a-ad6e-09b5cf93a944" />
 
 
-## Tech Stack
-- **Hardware:** Arduino Nano, H-Bridge motor driver, DC motors, Bluetooth module, 3D-printed chassis.  
-- **Software:** Arduino C++ for PWM control + Bluetooth input handling.  
-- **Tools:** Fusion 360 for CAD design, Arduino IDE, oscilloscope & multimeter for verification.  
-
-## How It Works
-1. The Arduino Nano receives control signals wirelessly via Bluetooth.  
-2. Signals are translated into PWM outputs to the H-Bridge, driving left/right motors for precise movement.  
-3. CAD-designed 3D-printed chassis ensures stability, traction, and crash resistance during gameplay.  
-4. The robot can maneuver quickly across the playing field while withstanding collisions.  
-
-## Images
-![468c0d50-56a7-4628-ad2d-e71402d367f9~1](https://github.com/user-attachments/assets/45a59711-231e-44aa-a64d-4026e4546d35)
-![a6b8dcd9-4ca4-4395-b643-4cae641acd12~1](https://github.com/user-attachments/assets/c21be81d-b6f4-4aec-8433-45b94206c962)
-![7e260e47-15e1-4bf8-be4e-e9125bb8ca29~1](https://github.com/user-attachments/assets/6f3a0089-9546-452f-a05e-b16f1c1d8ba9)
-
-
 ## Results
 - Successfully competed in TMU Engineering Competition.  
 - Robot delivered **stable, low-latency control** under real match conditions.  
-- Won **Best Design Award** for durable and well-integrated electromechanical build.  
+- Won **Best Design Award** for durable and well-integrated electromechanical build.
 
 ---
 
