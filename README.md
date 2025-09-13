@@ -49,6 +49,12 @@ All parts were modeled in Fusion 360 and 3D printed for assembly.
 - **Full Model** – [View Model](https://a360.co/3HGUWzy)  
 <img width="1920" height="1032" alt="Full_Model" src="https://github.com/user-attachments/assets/65c68e51-03f7-448a-ad6e-09b5cf93a944" />
 
+## Images
+
+![PXL_20250822_214508651 PORTRAIT](https://github.com/user-attachments/assets/ada375bd-46f4-4c14-8adf-e6cd76f64bde)
+![PXL_20250822_214501474 PORTRAIT](https://github.com/user-attachments/assets/09f25ea3-e68c-444c-9bf8-d16704928235)
+![PXL_20250822_214520744 PORTRAIT](https://github.com/user-attachments/assets/395e680a-502b-41d8-8cea-65a5926752f9)
+
 
 ## Results
 - Successfully competed in TMU Engineering Competition.  
